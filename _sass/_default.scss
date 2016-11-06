@@ -13,11 +13,14 @@ a {
     color: $cloudy;
     font-weight: bold;
     text-decoration: none;
+    border-bottom: transparent 1px solid;
 
     &:hover {
         color: $iron;
-        text-decoration: underline;
+        text-decoration: none;
+        border-bottom-color: $iron;
     }
+    transition: all 0.1s;
 }
 
 p,li {
@@ -213,7 +216,7 @@ strong {
     line-height: 24px;
 }
 
-.about__devider {
+.about__divider {
     font-size: 20px;
     margin-bottom: 50px;
     letter-spacing: 9.09px;

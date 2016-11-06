@@ -8,11 +8,20 @@ sitemap:
 
 <ul class="list-posts">
     {% for post in site.posts %}
+        {% if post.type != "link" %}
         <li class="post-teaser">
             <a href="{{ post.url | prepend: site.baseurl }}">
                 <span class="post-teaser__title">{{ post.title }}</span>
                 <span class="post-teaser__date">{{ post.date | date: "%d/%m/%Y" }}</span>
             </a>
         </li>
+        {% else %}
+        <li class="post-teaser">
+            <a href="{{ post.link }}">
+                <span class="post-teaser__title"><i class="fa fa-globe"></i> {{ post.title }}</span>
+                <span class="post-teaser__date">{{ post.date | date: "%d/%m/%Y" }}</span>
+            </a>
+        </li>
+        {% endif %}
     {% endfor %}
 </ul>

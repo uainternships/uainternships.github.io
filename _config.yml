@@ -1,9 +1,8 @@
 # Site settings
-title: UA &#128640; INTERNSHIPS
+title: UA / INTERNSHIPS
+unicode_title: UA 🚀 INTERNSHIS
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Допомагаємо українським студентам влаштуватися на стажування в топових технологічних компаніях Кремнієвої Долини.
 
 baseurl: ""
 url: "http://hitchhiker.ma" # the base hostname & protocol for your site

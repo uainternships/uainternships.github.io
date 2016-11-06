@@ -1,7 +1,7 @@
 <div class="about">
-    <div class="about__devider">*****</div>
+    <div class="about__divider">*****</div>
     <div class="about__text">
-        Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong>
-        on <strong>{{ page.date | date: "%d %B %Y" }}</strong>
+        {% if page.author %}Автор: <strong>{{ page.author }}.</strong> {% endif %}
+        Опубліковано <strong>{{ page.date | date: "%d/%m/%Y" }}</strong>
     </div>
 </div>
