@@ -12,14 +12,14 @@ layout: bare
       <i class="logo fa fa-google"></i> Google
     </li>
     <li>
-      <i class="logo fa fa-twitter"></i> Twitter
-    </li>
-    <li>
-      <i class="logo fa fa-facebook"></i> Facebook
-    </li>
-    <li>
       <i class="logo fa fa-windows"></i> Microsoft
     </li>
+    <li>
+      <i class="logo fa fa-twitter"></i> Twitter
+    </li>
+    <!--<li>
+      <i class="logo fa fa-facebook"></i> Facebook
+    </li>-->
   </ul>
 
 </div>
