@@ -4,13 +4,16 @@ unicode_title: UA 🚀 INTERNSHIS
 description: >
   Допомагаємо українським студентам влаштуватися на стажування в топових технологічних компаніях Кремнієвої Долини.
 
+
 baseurl: ""
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "http://uainternships.github.io" # the base hostname & protocol for your site
+
 
 twitter: uainternships
 # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
+cover: images/rocket.png
 
 # Syntax highlighting
 highlightstyle: ''
