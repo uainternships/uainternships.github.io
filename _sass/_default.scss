@@ -315,17 +315,23 @@ strong {
     margin-right: -2em;
     padding: 2em;
     text-align: center;
+
+    .btn {
+      font-size: 2em;
+      border-color: white;
+      color: white;
+    }
 }
 
 
 .btn {
-    font-size: 2em;
     padding: .5em;
     display: inline-block;
     border-radius-left: 50%;
     font-weight: 700;
-    border: 5px white solid;
-    color: white;
+    border: 5px black solid;
+    color: $iron;
+    text-decoration: none;
     &:hover {
         background-color: white;
         color: $iron;
@@ -353,4 +359,12 @@ strong {
             clear: left;
         }
     }
+}
+
+.inline {
+  padding: 0;
+  list-style: none;
+  li {
+    display: inline-block
+  }
 }

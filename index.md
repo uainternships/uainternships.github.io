@@ -79,6 +79,16 @@ layout: bare
 
 та інші.
 
-## Контактна інформація
+Хочете долучитися? Звісно! Пишіть.
 
-Слідкуйте за оновленнями на нашому твітері <i class="fa fa-twitter"></i>&nbsp;<a href="https://twitter.com/uainternships">uainternships</a>. З усіх питань пишіть Богдану на пошту **uainternships** песик **bogdankulynych.me** (треба замінити *песикa* на @), або ж звертайтеся на твітері.
+## Контактна інформація
+Слідкуйте за оновленнями на нашому твітері <i class="fa fa-twitter"></i>&nbsp;<a href="https://twitter.com/uainternships">uainternships</a>. З усіх питань пишіть Богдану на пошту **uainternships** (песик) **bogdankulynych.me**.
+
+{% comment %}
+## Сказати «дякую»
+Те, що ми робимо, вимагає чимало часу. Можете купити чашку кави:
+
+<ul class="inline">
+  <li><a href="https://www.paypal.me/BogdanKulynych/5"><span class="btn">PayPal</span></a></li>
+</ul>
+{% endcomment %}
