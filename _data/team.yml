@@ -1,0 +1,15 @@
+
+- name: Богдан Кулинич
+  image: http://bogdankulynych.me/images/bogdan.jpg
+  bio: Раніше двічі Software Engineering Intern @ Google
+  school: Випускник Могилянки
+
+- name: Арсен Костенко
+  image: /images/arsen.jpg
+  bio: Software Engineer @ Twitter, San Francisco
+  school: Випускник Могилянки
+
+- name: Данило Фітель
+  image: /images/danylo.jpg
+  bio: Software Engineer @ Microsoft, Seattle
+  school: Випускник Могилянки

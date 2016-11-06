@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Hitchhiker's guid to web development
+title: Блог
+subtitle: Sending the elevator back down
 sitemap:
   priority: 0.9
 ---
@@ -11,7 +11,7 @@ sitemap:
         <li class="post-teaser">
             <a href="{{ post.url | prepend: site.baseurl }}">
                 <span class="post-teaser__title">{{ post.title }}</span>
-                <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
+                <span class="post-teaser__date">{{ post.date | date: "%d/%m/%Y" }}</span>
             </a>
         </li>
     {% endfor %}
