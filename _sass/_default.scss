@@ -346,17 +346,20 @@ strong {
     padding: 0;
     list-style: none;
     li {
-        margin-top: 2em;
+        margin-top: 1em;
         display: block;
         img {
-            display: inline-block;
+            display: block;
             float: left;
             border-radius: 50%;
             width: 100px;
             height: 100px;
-            margin: 0;
+            margin-top: 1.5em;
             margin-right: 1.5em;
-            clear: left;
+        }
+        .description {
+            display: block;
+            overflow: auto;
         }
     }
 }
