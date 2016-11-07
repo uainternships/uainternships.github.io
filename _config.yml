@@ -12,7 +12,7 @@ url: "http://uainternships.github.io/" # the base hostname & protocol for your s
 twitter: uainternships
 # disqus: your_disqus_forum_shortname
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-86962357-1'
 cover: images/internship_101.jpg
 
 # Syntax highlighting
