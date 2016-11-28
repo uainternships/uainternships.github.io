@@ -27,8 +27,7 @@ def anonymize_data(rows):
         eligibility_integral = eligibility_integral == 'TRUE'
 
         # Compile anonymized data
-        salt = base64.b64encode(os.urandom(SALT_BITS))
-        h = hashlib.sha256(email.encode('utf-8') + salt).hexdigest()
+        h = hashlib.sha256(email.encode('utf-8')).hexdigest()
         anonymized_item = {
             'qualification': qualification,
             'language': eligibility_language,
