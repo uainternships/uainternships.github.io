@@ -60,9 +60,9 @@ layout: bare
 
 <div class="banner">
   <h2>Набір перший (бета)</h2>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxFzc6pZd1y_KanYK17gDyOFdygqjesKr0Gh2GG_4zt96kZQ/viewform"><span class="btn">Податися зараз</span></a>
+  <a href="/2016/11/29/results1.html"><span class="btn">Попередні результати</span></a>
   <p>
-  Останній термін подачі: 19 листопада 2016
+  Останній термін подачі був: 19 листопада 2016
   </p>
 </div>
 
