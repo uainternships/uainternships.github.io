@@ -60,7 +60,7 @@ layout: bare
 
 <div class="banner">
   <h2>Набір перший (бета)</h2>
-  <a href="/2016/11/29/results1.html"><span class="btn">Попередні результати</span></a>
+  <a href="/2016/11/29/results1"><span class="btn">Попередні результати</span></a>
   <p>
   Останній термін подачі був: 19 листопада 2016
   </p>
